@@ -142,7 +142,7 @@ This program has no pre-requisites
 1. Clone the repo
 
 ```sh
-git clone https://github.com/ShaanCoding/ReadME-Generator.git
+git clone https://github.com/errorfiathck/basic-network-tools.git
 ```
 
 2. cd to directory
